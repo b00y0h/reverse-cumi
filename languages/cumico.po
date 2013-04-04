@@ -1,0 +1,3911 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: thecoy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-04 16:11+0200\n"
+"PO-Revision-Date: 2013-03-04 16:12+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../cumico/404.php:14
+msgid "404 error"
+msgstr ""
+
+#: ../../cumico/404.php:16
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr ""
+
+#: ../../cumico/archive-portfolio_pt.php:23
+msgid "Portfolio Archives"
+msgstr ""
+
+#: ../../cumico/archive-product.php:31
+msgid "Search Results:"
+msgstr ""
+
+#: ../../cumico/archive-product.php:32
+#: ../../cumico/functions.php:910
+msgid "Page"
+msgstr ""
+
+#: ../../cumico/archive-product.php:49
+msgid "Grid view"
+msgstr ""
+
+#: ../../cumico/archive-product.php:50
+msgid "List view"
+msgstr ""
+
+#: ../../cumico/archive-product.php:88
+msgid "No products found which match your selection."
+msgstr ""
+
+#: ../../cumico/archive.php:25
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../../cumico/archive.php:27
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../../cumico/archive.php:29
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../../cumico/archive.php:31
+msgid "Blog Archives"
+msgstr ""
+
+#: ../../cumico/category.php:16
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../../cumico/comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../../cumico/comments.php:36
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: ../../cumico/comments.php:61
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../../cumico/comments.php:62
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../../cumico/functions.php:36
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../../cumico/functions.php:37
+msgid "Install Plugins"
+msgstr ""
+
+#: ../../cumico/functions.php:38
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../../cumico/functions.php:39
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../../cumico/functions.php:50
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../../cumico/functions.php:51
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../../cumico/functions.php:52
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../../cumico/functions.php:299
+msgid "Primary Navigation"
+msgstr ""
+
+#: ../../cumico/functions.php:300
+msgid "Footer Navigation"
+msgstr ""
+
+#: ../../cumico/functions.php:301
+msgid "Top Header Navigation"
+msgstr ""
+
+#: ../../cumico/functions.php:357
+#: ../../cumico/loop-attachment.php:98
+#: ../../cumico/loop-blog.php:45
+msgid "Continue reading <span class=\"meta-nav\">&#187;</span>"
+msgstr ""
+
+#: ../../cumico/functions.php:452
+msgid "Comment is awaiting moderation"
+msgstr ""
+
+#: ../../cumico/functions.php:456
+msgid "Reply"
+msgstr ""
+
+#: ../../cumico/functions.php:468
+#, php-format
+msgid "<span class=\"sep\">Posted on </span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a><span class=\"by-author\"> <span class=\"sep\"> by </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+
+#: ../../cumico/functions.php:474
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../../cumico/functions.php:483
+#: ../../cumico/functions.php:486
+msgid ", "
+msgstr ""
+
+#: ../../cumico/functions.php:488
+#, php-format
+msgid "Posted in %1$s and tagged %2$s"
+msgstr ""
+
+#: ../../cumico/functions.php:490
+#, php-format
+msgid "Posted in %1$s by <a href=\"%6$s\">%5$s</a>."
+msgstr ""
+
+#: ../../cumico/functions.php:492
+#, php-format
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../../cumico/header.php:37
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../../cumico/loop-attachment.php:16
+#, php-format
+msgid "Return to %s"
+msgstr ""
+
+#: ../../cumico/loop-attachment.php:18
+#, php-format
+msgid "<span class=\"meta-nav\">&larr;</span> %s"
+msgstr ""
+
+#: ../../cumico/loop-attachment.php:26
+#, php-format
+msgid "<span class=\"%1$s\">By</span> %2$s"
+msgstr ""
+
+#: ../../cumico/loop-attachment.php:37
+#, php-format
+msgid "<span class=\"%1$s\">Published</span> %2$s"
+msgstr ""
+
+#: ../../cumico/loop-attachment.php:47
+#, php-format
+msgid "Full size is %s pixels"
+msgstr ""
+
+#: ../../cumico/loop-attachment.php:50
+msgid "Link to full-size image"
+msgstr ""
+
+#: ../../cumico/loop-attachment.php:57
+#: ../../cumico/loop-attachment.php:105
+msgid "Edit"
+msgstr ""
+
+#: ../../cumico/loop-attachment.php:99
+#: ../../cumico/loop-blog.php:47
+#: ../../cumico/loop-page.php:19
+msgid "Pages:"
+msgstr ""
+
+#: ../../cumico/loop-blog.php:10
+msgid "Not Found"
+msgstr ""
+
+#: ../../cumico/loop-blog.php:12
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#: ../../cumico/search.php:23
+msgid "Nothing Found"
+msgstr ""
+
+#: ../../cumico/search.php:25
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: ../../cumico/admin/options-backup.php:70
+msgid "Cumico Setting Import / Export"
+msgstr ""
+
+#: ../../cumico/admin/options-backup.php:70
+#: ../../cumico/admin/options-backup.php:109
+msgid "Import / Export"
+msgstr ""
+
+#: ../../cumico/admin/options-backup.php:111
+msgid "Import Settings"
+msgstr ""
+
+#: ../../cumico/admin/options-backup.php:112
+msgid "If you have settings in a backup file on your computer, the Import / Export system can import those into this site. To get started, upload your backup file to import form below."
+msgstr ""
+
+#: ../../cumico/admin/options-backup.php:117
+#, php-format
+msgid "Upload File: (Maximum Size: %s)"
+msgstr ""
+
+#: ../../cumico/admin/options-backup.php:120
+msgid "Upload File and Import"
+msgstr ""
+
+#: ../../cumico/admin/options-backup.php:125
+msgid "Export Settings"
+msgstr ""
+
+#: ../../cumico/admin/options-backup.php:126
+msgid "When you click the button below, the Import / Export system will create a text file for you to save to your computer."
+msgstr ""
+
+#: ../../cumico/admin/options-backup.php:127
+#, php-format
+msgid "This text file can be used to restore your settings here on \"%s\", or to easily setup another website with the same theme settings."
+msgstr ""
+
+#: ../../cumico/admin/options-backup.php:131
+msgid "Download Export File"
+msgstr ""
+
+#: ../../cumico/admin/options-backup.php:153
+msgid "Backup Manager"
+msgstr ""
+
+#: ../../cumico/admin/options-backup.php:154
+msgid "Welcome to the OptionsFramework Backup Manager."
+msgstr ""
+
+#: ../../cumico/admin/options-backup.php:155
+msgid "Here are a few notes on using this screen."
+msgstr ""
+
+#: ../../cumico/admin/options-backup.php:156
+msgid "The backup manager allows you to backup or restore your \"Theme Options\" and other settings to or from a text file."
+msgstr ""
+
+#: ../../cumico/admin/options-backup.php:157
+msgid "To create a backup, simply hit the \"Download Export File\" button."
+msgstr ""
+
+#: ../../cumico/admin/options-backup.php:158
+msgid "To restore your settings from a backup, browse your computer for the file (under the \"Import Settings\" heading) and hit the \"Upload File and Import\" button. This will restore only the settings that have changed since the backup."
+msgstr ""
+
+#: ../../cumico/admin/options-backup.php:159
+msgid "Please note that only valid backup files generated through the OptionsFramework Backup Manager should be imported."
+msgstr ""
+
+#: ../../cumico/admin/options-backup.php:178
+#, php-format
+msgid "Please note that this backup manager backs up only your theme settings and not your content. To backup your content, please use the %sWordPress Export Tool%s."
+msgstr ""
+
+#: ../../cumico/admin/options-backup.php:181
+#: ../../cumico/admin/options-import-content.php:110
+msgid "There was a problem importing your settings. Please Try again."
+msgstr ""
+
+#: ../../cumico/admin/options-backup.php:183
+msgid "There was a problem exporting your settings. Please Try again."
+msgstr ""
+
+#: ../../cumico/admin/options-backup.php:185
+msgid "The import file you've provided is invalid. Please try again."
+msgstr ""
+
+#: ../../cumico/admin/options-backup.php:187
+#, php-format
+msgid "Settings successfully imported. | Return to %sTheme Options%s"
+msgstr ""
+
+#: ../../cumico/admin/options-framework.php:182
+#: ../../cumico/admin/options-framework.php:463
+msgid "Theme Options"
+msgstr ""
+
+#: ../../cumico/admin/options-framework.php:215
+msgid "Clear"
+msgstr ""
+
+#: ../../cumico/admin/options-framework.php:216
+msgid "Default"
+msgstr ""
+
+#: ../../cumico/admin/options-framework.php:217
+msgid "Select Color"
+msgstr ""
+
+#: ../../cumico/admin/options-framework.php:266
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: ../../cumico/admin/options-framework.php:341
+msgid "Default options restored."
+msgstr ""
+
+#: ../../cumico/admin/options-framework.php:393
+msgid "New custom sidebar created."
+msgstr ""
+
+#: ../../cumico/admin/options-framework.php:396
+msgid "Custom sidebar deleted."
+msgstr ""
+
+#: ../../cumico/admin/options-framework.php:399
+msgid "Error: there's already a sidebar with that name or the field is empty."
+msgstr ""
+
+#: ../../cumico/admin/options-framework.php:413
+msgid "Options saved."
+msgstr ""
+
+#: ../../cumico/admin/options-import-content.php:38
+msgid "Cumico Import Default Content"
+msgstr ""
+
+#: ../../cumico/admin/options-import-content.php:38
+msgid "Default Content"
+msgstr ""
+
+#: ../../cumico/admin/options-import-content.php:88
+msgid "Import"
+msgstr ""
+
+#: ../../cumico/admin/options-import-content.php:112
+#, php-format
+msgid "Settings successfully imported. | Go to %sTheme Options%s"
+msgstr ""
+
+#: ../../cumico/admin/options-medialibrary-uploader.php:26
+msgid "Theme Options Media"
+msgstr ""
+
+#: ../../cumico/admin/options-medialibrary-uploader.php:126
+msgid "Upload"
+msgstr ""
+
+#: ../../cumico/admin/options-medialibrary-uploader.php:149
+msgid "View File"
+msgstr ""
+
+#: ../../cumico/admin/options-medialibrary-uploader.php:282
+msgid "Gallery"
+msgstr ""
+
+#: ../../cumico/admin/options-medialibrary-uploader.php:282
+msgid "Previously Uploaded"
+msgstr ""
+
+#: ../../cumico/admin/options-sanitize.php:244
+msgid "No Repeat"
+msgstr ""
+
+#: ../../cumico/admin/options-sanitize.php:245
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../../cumico/admin/options-sanitize.php:246
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../../cumico/admin/options-sanitize.php:247
+msgid "Repeat All"
+msgstr ""
+
+#: ../../cumico/admin/options-sanitize.php:260
+msgid "Top Left"
+msgstr ""
+
+#: ../../cumico/admin/options-sanitize.php:261
+msgid "Top Center"
+msgstr ""
+
+#: ../../cumico/admin/options-sanitize.php:262
+msgid "Top Right"
+msgstr ""
+
+#: ../../cumico/admin/options-sanitize.php:263
+msgid "Middle Left"
+msgstr ""
+
+#: ../../cumico/admin/options-sanitize.php:264
+msgid "Middle Center"
+msgstr ""
+
+#: ../../cumico/admin/options-sanitize.php:265
+msgid "Middle Right"
+msgstr ""
+
+#: ../../cumico/admin/options-sanitize.php:266
+msgid "Bottom Left"
+msgstr ""
+
+#: ../../cumico/admin/options-sanitize.php:267
+msgid "Bottom Center"
+msgstr ""
+
+#: ../../cumico/admin/options-sanitize.php:268
+msgid "Bottom Right"
+msgstr ""
+
+#: ../../cumico/admin/options-sanitize.php:281
+msgid "Scroll Normally"
+msgstr ""
+
+#: ../../cumico/admin/options-sanitize.php:282
+msgid "Fixed in Place"
+msgstr ""
+
+#: ../../cumico/admin/options-sanitize.php:356
+msgid "Normal"
+msgstr ""
+
+#: ../../cumico/admin/options-sanitize.php:357
+msgid "Italic"
+msgstr ""
+
+#: ../../cumico/admin/options-sanitize.php:358
+msgid "Bold"
+msgstr ""
+
+#: ../../cumico/admin/options-sanitize.php:359
+msgid "Bold Italic"
+msgstr ""
+
+#: ../../cumico/admin/meta-box/inc/classes/meta-box.php:290
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ../../cumico/admin/meta-box/inc/classes/meta-box.php:348
+msgid "+"
+msgstr ""
+
+#: ../../cumico/admin/meta-box/inc/classes/meta-box.php:370
+msgid "&#8211;"
+msgstr ""
+
+#: ../../cumico/admin/meta-box/inc/fields/file.php:66
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ../../cumico/admin/meta-box/inc/fields/image.php:64
+msgid "Order saved"
+msgstr ""
+
+#: ../../cumico/admin/meta-box/inc/fields/map.php:46
+msgid "Find Address"
+msgstr ""
+
+#: ../../cumico/admin/meta-box/inc/fields/posts.php:59
+#: ../../cumico/admin/meta-box/inc/fields/taxonomy.php:43
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: ../../cumico/admin/meta-box/inc/fields/select-advanced.php:69
+msgid "Select a value"
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:517
+#: ../../cumico/lib/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1955
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1956
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1956
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1962
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../../cumico/lib/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../../cumico/lib/options.php:91
+msgid "Flexslider"
+msgstr ""
+
+#: ../../cumico/lib/options.php:92
+msgid "Sequence slider"
+msgstr ""
+
+#: ../../cumico/lib/options.php:93
+msgid "Elastic slider"
+msgstr ""
+
+#: ../../cumico/lib/options.php:94
+msgid "iView slider"
+msgstr ""
+
+#: ../../cumico/lib/options.php:95
+msgid "Slit slider"
+msgstr ""
+
+#: ../../cumico/lib/options.php:96
+msgid "jmpress slider"
+msgstr ""
+
+#: ../../cumico/lib/options.php:97
+msgid "Multi Item Slider"
+msgstr ""
+
+#: ../../cumico/lib/options.php:98
+#: ../../cumico/lib/options.php:1676
+msgid "Slideshow from plugin"
+msgstr ""
+
+#: ../../cumico/lib/options.php:99
+#: ../../cumico/lib/post-types.php:177
+#: ../../cumico/lib/post-types.php:187
+#: ../../cumico/lib/post-types.php:391
+msgid "None"
+msgstr ""
+
+#: ../../cumico/lib/options.php:104
+msgid "Style 1"
+msgstr ""
+
+#: ../../cumico/lib/options.php:105
+msgid "Style 2"
+msgstr ""
+
+#: ../../cumico/lib/options.php:106
+msgid "Style 3"
+msgstr ""
+
+#: ../../cumico/lib/options.php:111
+msgid "Full width"
+msgstr ""
+
+#: ../../cumico/lib/options.php:112
+msgid "Boxed"
+msgstr ""
+
+#: ../../cumico/lib/options.php:117
+msgid "960px wide"
+msgstr ""
+
+#: ../../cumico/lib/options.php:118
+msgid "1200px wide"
+msgstr ""
+
+#: ../../cumico/lib/options.php:141
+msgid "Layout"
+msgstr ""
+
+#: ../../cumico/lib/options.php:144
+msgid "Select layout width"
+msgstr ""
+
+#: ../../cumico/lib/options.php:145
+msgid "Select between 960px or 1140px wide layout"
+msgstr ""
+
+#: ../../cumico/lib/options.php:151
+msgid "Select layout style"
+msgstr ""
+
+#: ../../cumico/lib/options.php:152
+msgid "Select between full width and boxed layout"
+msgstr ""
+
+#: ../../cumico/lib/options.php:158
+msgid "Body Background"
+msgstr ""
+
+#: ../../cumico/lib/options.php:159
+msgid "Upload a background image here.<br> If you select to display a bacground image/color, set the patterns to \"none.\""
+msgstr ""
+
+#: ../../cumico/lib/options.php:165
+msgid "Select pattern"
+msgstr ""
+
+#: ../../cumico/lib/options.php:166
+msgid "Select a pattern for your boxed layout"
+msgstr ""
+
+#: ../../cumico/lib/options.php:186
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../../cumico/lib/options.php:187
+msgid "Select a sidebar layout position (left or right). You can also select a wide page layout on a per-page basis."
+msgstr ""
+
+#: ../../cumico/lib/options.php:196
+msgid "Responsiveness"
+msgstr ""
+
+#: ../../cumico/lib/options.php:197
+msgid "Enable/Disable responsive mode. Defaults to true."
+msgstr ""
+
+#: ../../cumico/lib/options.php:202
+msgid "Logo Style"
+msgstr ""
+
+#: ../../cumico/lib/options.php:203
+msgid "Display a custom image/logo image in place of title header."
+msgstr ""
+
+#: ../../cumico/lib/options.php:208
+msgid "Header Logo"
+msgstr ""
+
+#: ../../cumico/lib/options.php:209
+msgid "If you prefer to show a graphic logo in place of the header, you can upload or paste the URL here. Set the width and height below. <strong>Your logo should be resized prior to uploading</strong>"
+msgstr ""
+
+#: ../../cumico/lib/options.php:214
+msgid "Logo Width"
+msgstr ""
+
+#: ../../cumico/lib/options.php:215
+msgid "Width (in px) of your logo."
+msgstr ""
+
+#: ../../cumico/lib/options.php:221
+msgid "Logo Height"
+msgstr ""
+
+#: ../../cumico/lib/options.php:222
+msgid "Height (in px) of your logo."
+msgstr ""
+
+#: ../../cumico/lib/options.php:228
+msgid "Site tagline"
+msgstr ""
+
+#: ../../cumico/lib/options.php:229
+msgid "Display site tagline?"
+msgstr ""
+
+#: ../../cumico/lib/options.php:233
+msgid "Favicon Style"
+msgstr ""
+
+#: ../../cumico/lib/options.php:234
+msgid "Display a custom image/logo favicon."
+msgstr ""
+
+#: ../../cumico/lib/options.php:238
+msgid "Favicon Logo"
+msgstr ""
+
+#: ../../cumico/lib/options.php:239
+#: ../../cumico/lib/options.php:250
+msgid "Upload or paste the URL here. <strong>Your logo should be resized prior to uploading</strong>"
+msgstr ""
+
+#: ../../cumico/lib/options.php:244
+msgid "WP admin logo style"
+msgstr ""
+
+#: ../../cumico/lib/options.php:245
+msgid "Display a custom image/logo when you wp login page."
+msgstr ""
+
+#: ../../cumico/lib/options.php:249
+msgid "WP admin logo"
+msgstr ""
+
+#: ../../cumico/lib/options.php:258
+msgid "Typography"
+msgstr ""
+
+#: ../../cumico/lib/options.php:261
+msgid "Link color"
+msgstr ""
+
+#: ../../cumico/lib/options.php:262
+msgid "Default: #5c5c5c "
+msgstr ""
+
+#: ../../cumico/lib/options.php:267
+msgid "Link hover color"
+msgstr ""
+
+#: ../../cumico/lib/options.php:268
+#: ../../cumico/lib/options.php:280
+msgid "Default: #e07b7b "
+msgstr ""
+
+#: ../../cumico/lib/options.php:273
+msgid "Footer Link color"
+msgstr ""
+
+#: ../../cumico/lib/options.php:274
+msgid "Default: #DEDEDE "
+msgstr ""
+
+#: ../../cumico/lib/options.php:279
+msgid "Footer Link hover color"
+msgstr ""
+
+#: ../../cumico/lib/options.php:285
+msgid "Main Body typography"
+msgstr ""
+
+#: ../../cumico/lib/options.php:286
+msgid "Defaults: Size:13, Face: Bitter, Style: normal, Color:575757 "
+msgstr ""
+
+#: ../../cumico/lib/options.php:292
+msgid "Main Menu typography"
+msgstr ""
+
+#: ../../cumico/lib/options.php:293
+msgid "Defaults: Size:11, Face: Bitter, Style: normal, Color:3f3f3f"
+msgstr ""
+
+#: ../../cumico/lib/options.php:299
+msgid "Footer typography"
+msgstr ""
+
+#: ../../cumico/lib/options.php:300
+msgid "Defaults: Size:13, Face: Bitter, Style: normal, Color:999999 "
+msgstr ""
+
+#: ../../cumico/lib/options.php:306
+msgid "(H1) Heading"
+msgstr ""
+
+#: ../../cumico/lib/options.php:307
+#: ../../cumico/lib/options.php:343
+msgid "Defaults: Size:30, Face: Bitter, Style: normal, Color:E07B7B"
+msgstr ""
+
+#: ../../cumico/lib/options.php:313
+msgid "(H2) Heading"
+msgstr ""
+
+#: ../../cumico/lib/options.php:314
+msgid "Defaults: Size:24, Face: Bitter, Style: normal, Color:E07B7B"
+msgstr ""
+
+#: ../../cumico/lib/options.php:321
+msgid "(H3) Heading"
+msgstr ""
+
+#: ../../cumico/lib/options.php:322
+#: ../../cumico/lib/options.php:406
+msgid "Defaults: Size:18, Face: Bitter, Style: normal, Color:E07B7B"
+msgstr ""
+
+#: ../../cumico/lib/options.php:328
+msgid "(H4) Heading"
+msgstr ""
+
+#: ../../cumico/lib/options.php:329
+msgid "Defaults: Size:14, Face: Bitter, Style: normal, Color:E07B7B"
+msgstr ""
+
+#: ../../cumico/lib/options.php:335
+msgid "(H5) Heading"
+msgstr ""
+
+#: ../../cumico/lib/options.php:336
+msgid "Defaults: Size:12, Face: Bitter, Style: normal, Color:E07B7B"
+msgstr ""
+
+#: ../../cumico/lib/options.php:342
+msgid "Page title"
+msgstr ""
+
+#: ../../cumico/lib/options.php:349
+msgid "Page headline"
+msgstr ""
+
+#: ../../cumico/lib/options.php:350
+msgid "Defaults: Size:36, Face: Bitter, Style: normal, Color:DFE8EC"
+msgstr ""
+
+#: ../../cumico/lib/options.php:356
+msgid "Sidebar widget title"
+msgstr ""
+
+#: ../../cumico/lib/options.php:357
+msgid "Defaults: Size:13, Face: Bitter, Style: bold, Color:E07B7B"
+msgstr ""
+
+#: ../../cumico/lib/options.php:363
+msgid "Sidebar custom widget title"
+msgstr ""
+
+#: ../../cumico/lib/options.php:364
+msgid "Defaults: Size:13, Face: Bitter, Style: bold, Color:B1C7D3"
+msgstr ""
+
+#: ../../cumico/lib/options.php:370
+msgid "Footer widget heading"
+msgstr ""
+
+#: ../../cumico/lib/options.php:371
+msgid "Defaults: Size:13, Face: Bitter, Style: bold, Color:ffffff"
+msgstr ""
+
+#: ../../cumico/lib/options.php:377
+msgid "Homepage widget heading"
+msgstr ""
+
+#: ../../cumico/lib/options.php:378
+msgid "Defaults: Size:13, Face: Bitter, Style: bold, Color:282727"
+msgstr ""
+
+#: ../../cumico/lib/options.php:384
+msgid "Top header menu"
+msgstr ""
+
+#: ../../cumico/lib/options.php:385
+#: ../../cumico/lib/options.php:413
+msgid "Defaults: Size:10, Face: Bitter, Style: normal, Color:999999"
+msgstr ""
+
+#: ../../cumico/lib/options.php:391
+msgid "Modules title (product, portfolio, blog, etc.)"
+msgstr ""
+
+#: ../../cumico/lib/options.php:392
+msgid "Defaults: Size:18, Face: Bitter, Style: normal, Color:282727"
+msgstr ""
+
+#: ../../cumico/lib/options.php:398
+msgid "Product page: Title"
+msgstr ""
+
+#: ../../cumico/lib/options.php:399
+msgid "Defaults: Size:30, Face: Bitter, Style: normal, Color:282727"
+msgstr ""
+
+#: ../../cumico/lib/options.php:405
+msgid "Product page: Price, On sale, Stock"
+msgstr ""
+
+#: ../../cumico/lib/options.php:412
+#: ../../cumico/lib/options.php:1751
+msgid "Breadcrumbs"
+msgstr ""
+
+#: ../../cumico/lib/options.php:421
+msgid "Design"
+msgstr ""
+
+#: ../../cumico/lib/options.php:424
+msgid "General border color"
+msgstr ""
+
+#: ../../cumico/lib/options.php:425
+msgid "Default: #ededed "
+msgstr ""
+
+#: ../../cumico/lib/options.php:430
+msgid "General hover border color"
+msgstr ""
+
+#: ../../cumico/lib/options.php:431
+msgid "Default: #CEDBE1 "
+msgstr ""
+
+#: ../../cumico/lib/options.php:436
+msgid "Bullet element color"
+msgstr ""
+
+#: ../../cumico/lib/options.php:437
+msgid "Default: #00A8FF "
+msgstr ""
+
+#: ../../cumico/lib/options.php:442
+msgid "General horizontal line color"
+msgstr ""
+
+#: ../../cumico/lib/options.php:443
+msgid "Default: #EDEDED "
+msgstr ""
+
+#: ../../cumico/lib/options.php:448
+msgid "Footer background"
+msgstr ""
+
+#: ../../cumico/lib/options.php:449
+msgid "Default: #383838 "
+msgstr ""
+
+#: ../../cumico/lib/options.php:454
+msgid "Custom sidebar background color. (Product categories and portfolio single sidebar)"
+msgstr ""
+
+#: ../../cumico/lib/options.php:455
+#: ../../cumico/lib/options.php:485
+#: ../../cumico/lib/options.php:491
+#: ../../cumico/lib/options.php:503
+msgid "Default: #E0E8ED "
+msgstr ""
+
+#: ../../cumico/lib/options.php:460
+msgid "Custom sidebar list background color. (Product categories and portfolio single sidebar)"
+msgstr ""
+
+#: ../../cumico/lib/options.php:461
+#: ../../cumico/lib/options.php:497
+#: ../../cumico/lib/options.php:509
+msgid "Default: #F3F4F5 "
+msgstr ""
+
+#: ../../cumico/lib/options.php:466
+msgid "Navigation elements background color"
+msgstr ""
+
+#: ../../cumico/lib/options.php:467
+#: ../../cumico/lib/options.php:473
+msgid "Default: #DEE7EB "
+msgstr ""
+
+#: ../../cumico/lib/options.php:472
+msgid "Buttons background color"
+msgstr ""
+
+#: ../../cumico/lib/options.php:478
+msgid "Form elements border color"
+msgstr ""
+
+#: ../../cumico/lib/options.php:479
+msgid "Default: #D9D9D9 "
+msgstr ""
+
+#: ../../cumico/lib/options.php:484
+msgid "Header search input background color"
+msgstr ""
+
+#: ../../cumico/lib/options.php:490
+msgid "Header minicart background color"
+msgstr ""
+
+#: ../../cumico/lib/options.php:496
+msgid "Header minicart list background color"
+msgstr ""
+
+#: ../../cumico/lib/options.php:502
+msgid "Main menu background"
+msgstr ""
+
+#: ../../cumico/lib/options.php:508
+msgid "Submenu list background"
+msgstr ""
+
+#: ../../cumico/lib/options.php:514
+msgid "Submenu hover&amp;current list background"
+msgstr ""
+
+#: ../../cumico/lib/options.php:515
+msgid "Default: #E5EAED "
+msgstr ""
+
+#: ../../cumico/lib/options.php:520
+msgid "Product page tab border top active color"
+msgstr ""
+
+#: ../../cumico/lib/options.php:521
+msgid "Default: #98C0D6 "
+msgstr ""
+
+#: ../../cumico/lib/options.php:527
+msgid "Homepage"
+msgstr ""
+
+#: ../../cumico/lib/options.php:530
+msgid "Homepage layout"
+msgstr ""
+
+#: ../../cumico/lib/options.php:531
+msgid "Select the homepage page layout: with or without sidebar. Default: with sidebar"
+msgstr ""
+
+#: ../../cumico/lib/options.php:539
+msgid "Homepage sidebar"
+msgstr ""
+
+#: ../../cumico/lib/options.php:540
+msgid "Select a sidebar to display on the Homepage. Default: \"Pages widget area\". To create custom sidebars please go to \"Sidebars\" tab."
+msgstr ""
+
+#: ../../cumico/lib/options.php:547
+msgid "Configure the homepage modules here. To enable the ones you need please head over to \"Homepage sorter\""
+msgstr ""
+
+#: ../../cumico/lib/options.php:550
+msgid "Headline options "
+msgstr ""
+
+#: ../../cumico/lib/options.php:553
+msgid "Tile"
+msgstr ""
+
+#: ../../cumico/lib/options.php:554
+msgid "Insert main title here. Will be wrapped in a H1 tag."
+msgstr ""
+
+#: ../../cumico/lib/options.php:560
+msgid "Short description"
+msgstr ""
+
+#: ../../cumico/lib/options.php:561
+msgid "Insert short description here. Will be wrapped in a P tag, under the title."
+msgstr ""
+
+#: ../../cumico/lib/options.php:567
+msgid "Tile link"
+msgstr ""
+
+#: ../../cumico/lib/options.php:568
+msgid "Insert main title link here. Insert \"http://\" also."
+msgstr ""
+
+#: ../../cumico/lib/options.php:576
+msgid "Featured products options "
+msgstr ""
+
+#: ../../cumico/lib/options.php:579
+#: ../../cumico/lib/options.php:645
+#: ../../cumico/lib/options.php:711
+#: ../../cumico/lib/options.php:777
+#: ../../cumico/lib/options.php:843
+#: ../../cumico/lib/options.php:909
+#: ../../cumico/lib/options.php:976
+#: ../../cumico/lib/options.php:1051
+#: ../../cumico/lib/options.php:1118
+#: ../../cumico/lib/options.php:1192
+#: ../../cumico/lib/options.php:1259
+#: ../../cumico/lib/options.php:1326
+#: ../../cumico/lib/post-types.php:142
+#: ../../cumico/lib/post-types.php:360
+#: ../../cumico/lib/post-types.php:533
+#: ../../cumico/lib/post-types.php:667
+#: ../../cumico/lib/post-types.php:802
+#: ../../cumico/lib/post-types.php:936
+#: ../../cumico/lib/post-types.php:1071
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:35
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:123
+msgid "Title"
+msgstr ""
+
+#: ../../cumico/lib/options.php:580
+msgid "Insert the title for featured products area"
+msgstr ""
+
+#: ../../cumico/lib/options.php:586
+#: ../../cumico/lib/options.php:652
+#: ../../cumico/lib/options.php:718
+#: ../../cumico/lib/options.php:784
+#: ../../cumico/lib/options.php:916
+#: ../../cumico/lib/options.php:991
+#: ../../cumico/lib/options.php:1058
+#: ../../cumico/lib/options.php:1125
+#: ../../cumico/lib/options.php:1199
+#: ../../cumico/lib/options.php:1266
+#: ../../cumico/lib/options.php:1333
+msgid "No. of posts"
+msgstr ""
+
+#: ../../cumico/lib/options.php:587
+#: ../../cumico/lib/options.php:653
+#: ../../cumico/lib/options.php:719
+#: ../../cumico/lib/options.php:785
+#: ../../cumico/lib/options.php:917
+#: ../../cumico/lib/options.php:992
+#: ../../cumico/lib/options.php:1059
+#: ../../cumico/lib/options.php:1126
+#: ../../cumico/lib/options.php:1200
+#: ../../cumico/lib/options.php:1267
+#: ../../cumico/lib/options.php:1334
+msgid "Insert the number of posts to display. Default:12"
+msgstr ""
+
+#: ../../cumico/lib/options.php:593
+#: ../../cumico/lib/options.php:659
+#: ../../cumico/lib/options.php:725
+#: ../../cumico/lib/options.php:791
+#: ../../cumico/lib/options.php:857
+#: ../../cumico/lib/options.php:924
+#: ../../cumico/lib/options.php:999
+#: ../../cumico/lib/options.php:1066
+#: ../../cumico/lib/options.php:1140
+#: ../../cumico/lib/options.php:1207
+#: ../../cumico/lib/options.php:1274
+#: ../../cumico/lib/options.php:1341
+msgid "Order posts by"
+msgstr ""
+
+#: ../../cumico/lib/options.php:594
+#: ../../cumico/lib/options.php:660
+#: ../../cumico/lib/options.php:726
+#: ../../cumico/lib/options.php:792
+#: ../../cumico/lib/options.php:858
+#: ../../cumico/lib/options.php:925
+#: ../../cumico/lib/options.php:1000
+#: ../../cumico/lib/options.php:1067
+#: ../../cumico/lib/options.php:1141
+#: ../../cumico/lib/options.php:1208
+#: ../../cumico/lib/options.php:1275
+#: ../../cumico/lib/options.php:1342
+msgid "Sort retrieved posts by parameter. Default: date"
+msgstr ""
+
+#: ../../cumico/lib/options.php:607
+#: ../../cumico/lib/options.php:673
+#: ../../cumico/lib/options.php:739
+#: ../../cumico/lib/options.php:805
+#: ../../cumico/lib/options.php:871
+#: ../../cumico/lib/options.php:938
+#: ../../cumico/lib/options.php:1013
+#: ../../cumico/lib/options.php:1080
+#: ../../cumico/lib/options.php:1154
+#: ../../cumico/lib/options.php:1221
+#: ../../cumico/lib/options.php:1288
+#: ../../cumico/lib/options.php:1355
+msgid "Order posts"
+msgstr ""
+
+#: ../../cumico/lib/options.php:608
+#: ../../cumico/lib/options.php:674
+#: ../../cumico/lib/options.php:740
+#: ../../cumico/lib/options.php:806
+#: ../../cumico/lib/options.php:872
+#: ../../cumico/lib/options.php:939
+#: ../../cumico/lib/options.php:1014
+#: ../../cumico/lib/options.php:1081
+#: ../../cumico/lib/options.php:1155
+#: ../../cumico/lib/options.php:1222
+#: ../../cumico/lib/options.php:1289
+#: ../../cumico/lib/options.php:1356
+msgid "Designate the ascending or descending order of posts. Default: DESC"
+msgstr ""
+
+#: ../../cumico/lib/options.php:618
+#: ../../cumico/lib/options.php:684
+#: ../../cumico/lib/options.php:750
+#: ../../cumico/lib/options.php:816
+#: ../../cumico/lib/options.php:882
+#: ../../cumico/lib/options.php:949
+#: ../../cumico/lib/options.php:1024
+#: ../../cumico/lib/options.php:1091
+#: ../../cumico/lib/options.php:1165
+#: ../../cumico/lib/options.php:1232
+#: ../../cumico/lib/options.php:1299
+#: ../../cumico/lib/options.php:1366
+msgid "Carousel mode"
+msgstr ""
+
+#: ../../cumico/lib/options.php:619
+#: ../../cumico/lib/options.php:685
+#: ../../cumico/lib/options.php:751
+#: ../../cumico/lib/options.php:817
+#: ../../cumico/lib/options.php:883
+#: ../../cumico/lib/options.php:950
+#: ../../cumico/lib/options.php:1025
+#: ../../cumico/lib/options.php:1092
+#: ../../cumico/lib/options.php:1166
+#: ../../cumico/lib/options.php:1233
+#: ../../cumico/lib/options.php:1300
+#: ../../cumico/lib/options.php:1367
+msgid "Select true to enable carousel, false to show default"
+msgstr ""
+
+#: ../../cumico/lib/options.php:629
+#: ../../cumico/lib/options.php:695
+#: ../../cumico/lib/options.php:761
+#: ../../cumico/lib/options.php:827
+#: ../../cumico/lib/options.php:893
+#: ../../cumico/lib/options.php:960
+#: ../../cumico/lib/options.php:1035
+#: ../../cumico/lib/options.php:1102
+#: ../../cumico/lib/options.php:1176
+#: ../../cumico/lib/options.php:1243
+#: ../../cumico/lib/options.php:1310
+#: ../../cumico/lib/options.php:1377
+msgid "Carousel autoplay"
+msgstr ""
+
+#: ../../cumico/lib/options.php:630
+#: ../../cumico/lib/options.php:696
+#: ../../cumico/lib/options.php:762
+#: ../../cumico/lib/options.php:828
+#: ../../cumico/lib/options.php:894
+#: ../../cumico/lib/options.php:961
+#: ../../cumico/lib/options.php:1036
+#: ../../cumico/lib/options.php:1103
+#: ../../cumico/lib/options.php:1177
+#: ../../cumico/lib/options.php:1244
+#: ../../cumico/lib/options.php:1311
+#: ../../cumico/lib/options.php:1378
+msgid "Select true to enable carousel autoplay, false otherwise. Default:false"
+msgstr ""
+
+#: ../../cumico/lib/options.php:642
+msgid "Sale products options"
+msgstr ""
+
+#: ../../cumico/lib/options.php:646
+msgid "Insert the title for sale products area"
+msgstr ""
+
+#: ../../cumico/lib/options.php:708
+msgid "Recent products options"
+msgstr ""
+
+#: ../../cumico/lib/options.php:712
+msgid "Insert the title for recent products area"
+msgstr ""
+
+#: ../../cumico/lib/options.php:774
+msgid "Best selling products options"
+msgstr ""
+
+#: ../../cumico/lib/options.php:778
+msgid "Insert the title for best selling products area"
+msgstr ""
+
+#: ../../cumico/lib/options.php:840
+msgid "Products by id options"
+msgstr ""
+
+#: ../../cumico/lib/options.php:844
+msgid "Insert the title products by id area"
+msgstr ""
+
+#: ../../cumico/lib/options.php:850
+msgid "Product ids"
+msgstr ""
+
+#: ../../cumico/lib/options.php:851
+msgid "Insert the product ids separated by commas. E.g. 1154, 1254, 1256 "
+msgstr ""
+
+#: ../../cumico/lib/options.php:906
+msgid "Product categories"
+msgstr ""
+
+#: ../../cumico/lib/options.php:910
+msgid "Insert the product categories title"
+msgstr ""
+
+#: ../../cumico/lib/options.php:973
+msgid "Products by category slug"
+msgstr ""
+
+#: ../../cumico/lib/options.php:977
+msgid "Insert the products by category slug title"
+msgstr ""
+
+#: ../../cumico/lib/options.php:983
+msgid "Category slug"
+msgstr ""
+
+#: ../../cumico/lib/options.php:984
+msgid "Insert the category slug name"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1048
+#: ../../cumico/lib/post-types.php:903
+#: ../../cumico/lib/widgets.php:609
+msgid "Ads"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1052
+msgid "Insert the ads title"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1115
+#: ../../cumico/lib/post-types.php:36
+msgid "Portfolio"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1119
+msgid "Insert the portfolio title"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1132
+msgid "Categories"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1133
+msgid "Insert the categories from where the post should appear, separated by commas(\",\"). Leave empty to display from all categories."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1189
+#: ../../cumico/lib/post-types.php:634
+msgid "Testimonials"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1193
+msgid "Insert the testimonials title"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1256
+#: ../../cumico/lib/post-types.php:500
+msgid "Sponsors"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1260
+msgid "Insert the sponsors title"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1323
+#: ../../cumico/lib/post-types.php:769
+#: ../../cumico/lib/widgets.php:736
+msgid "Team"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1327
+msgid "Insert the team title"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1392
+msgid "Homepage sorter"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1402
+msgid "Slideshow/Slider"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1405
+msgid "Select slideshow"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1406
+msgid "Select your slideshow"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1412
+msgid "Select a Category"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1413
+msgid "Select a slideshow category to display"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1418
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1190
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1219
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1248
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1277
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1306
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1373
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1435
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1497
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1559
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1621
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1669
+msgid "Number of posts to show"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1419
+msgid "Insert number of sponsors posts to show"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1424
+msgid "Flexslider options"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1427
+#: ../../cumico/lib/options.php:1470
+#: ../../cumico/lib/options.php:1514
+#: ../../cumico/lib/options.php:1596
+#: ../../cumico/lib/options.php:1624
+msgid "Animate automatically?"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1428
+#: ../../cumico/lib/options.php:1471
+#: ../../cumico/lib/options.php:1515
+#: ../../cumico/lib/options.php:1597
+#: ../../cumico/lib/options.php:1625
+msgid "Select true/false if you want the slideshow to animate automatically. Default: false"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1433
+#: ../../cumico/lib/options.php:1451
+#: ../../cumico/lib/options.php:1476
+#: ../../cumico/lib/options.php:1493
+#: ../../cumico/lib/options.php:1504
+#: ../../cumico/lib/options.php:1520
+#: ../../cumico/lib/options.php:1586
+#: ../../cumico/lib/options.php:1602
+#: ../../cumico/lib/options.php:1630
+#: ../../cumico/lib/options.php:1647
+#: ../../cumico/lib/options.php:1658
+msgid "False"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1434
+#: ../../cumico/lib/options.php:1450
+#: ../../cumico/lib/options.php:1477
+#: ../../cumico/lib/options.php:1494
+#: ../../cumico/lib/options.php:1505
+#: ../../cumico/lib/options.php:1521
+#: ../../cumico/lib/options.php:1587
+#: ../../cumico/lib/options.php:1603
+#: ../../cumico/lib/options.php:1631
+#: ../../cumico/lib/options.php:1648
+#: ../../cumico/lib/options.php:1659
+msgid "True"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1438
+#: ../../cumico/lib/options.php:1481
+#: ../../cumico/lib/options.php:1525
+#: ../../cumico/lib/options.php:1562
+#: ../../cumico/lib/options.php:1607
+#: ../../cumico/lib/options.php:1635
+msgid "Animation speed"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1439
+msgid "Insert the animtion speed in ms. Default:7000"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1444
+msgid "Display navigation?"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1445
+msgid "Select true/false if you want to display navigation. Default:true"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1455
+#: ../../cumico/lib/options.php:1548
+msgid "Slide effect"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1456
+msgid "Select the slide effect. Default: fade"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1461
+#: ../../cumico/lib/options.php:1556
+msgid "Fade"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1462
+msgid "Slide"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1467
+msgid "Sequence slider option"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1482
+#: ../../cumico/lib/options.php:1526
+msgid "Insert the animtion speed in ms. Default:3000"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1487
+msgid "Animate starting frame?"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1488
+msgid "Select true/false if you want the slideshow to animate the first slide. Default: true"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1498
+#: ../../cumico/lib/options.php:1580
+msgid "Pause on hover"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1499
+#: ../../cumico/lib/options.php:1581
+msgid "Select true/false if you want the slideshow to pause on hover. Default: false"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1511
+msgid "Elastic slider option"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1531
+msgid "Easing speed"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1532
+msgid "Insert the easing speed in ms. Default:800"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1537
+msgid "Title speed"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1538
+msgid "Insert the title speed in ms. Default:1200"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1545
+msgid "Iview slider option"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1549
+msgid "Select the slide effect. Default: random"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1554
+msgid "Random"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1555
+msgid "Left Curtain"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1557
+msgid "Zigzag Top"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1558
+msgid "Strip Left Fade"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1563
+msgid "Insert the animtion speed in ms. Default:500"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1568
+msgid "Caption speed"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1569
+msgid "Insert the caption speed in ms. Default:500"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1574
+msgid "Pause time"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1575
+msgid "Insert the pause time of the slide before animating to the next one. Default:5000"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1593
+msgid "Slit slider option"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1608
+msgid "Insert the animation speed in ms. Default:4000"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1613
+msgid "Transition speed"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1614
+msgid "Insert the transition speed in ms. Default:800"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1621
+msgid "JMpress slider option"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1636
+msgid "Insert the animation speed in ms. Default:3500"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1641
+msgid "Arrows animation"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1642
+msgid "Select true/false if you want to display arrows animations. Default: false"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1652
+msgid "Bullet animation"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1653
+msgid "Select true/false if you want to display bullet animations. Default: true"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1665
+msgid "Product Categories Slider"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1668
+msgid "Select product categories"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1669
+msgid "Select the product categories you want to display. Each category can display a maximum of 4 products."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1679
+msgid "Slideshow shortcode"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1680
+msgid "Insert here the shortcode for your slideshow plugin"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1688
+msgid "Store"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1691
+msgid "Catalog mode"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1692
+msgid "Enable/Disable catalog mode. This will disable: add to cart, checkout and buy functions. Defaults to false."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1697
+msgid "Cloud zoom feature"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1698
+msgid "Enable/Disable the Cloud zoom feature in product page. This will be reverted to the original woocommerce lightbox. Defaults to true."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1703
+msgid "Mega dropdown options"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1706
+msgid "Mega dropdown is activated if you insert \"mega-dropdown\" in the \"CSS classes\" field from \"Appearance >> Menus >> Menu item\".</br></br> Image size: 480x150px (the height can be as much as you want). </br></br>Note: Only applies to the main navigation. "
+msgstr ""
+
+#: ../../cumico/lib/options.php:1709
+msgid "Ad image"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1710
+msgid "Upload your ad image here."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1714
+msgid "Ad link"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1715
+msgid "Insert the ad image link here."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1720
+msgid "Ad description"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1721
+msgid "Description applies to image \"alt\" tag."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1728
+msgid "General options"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1732
+msgid "Number of products per page"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1733
+msgid "Default:12"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1739
+msgid "Header cart"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1740
+msgid "Enable/Disable header cart, defaults to true."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1745
+msgid "Header products search"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1746
+msgid "Enable/Disable header products search, defaults to true."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1752
+msgid "Enable/Disable store breadcrumbs, defaults to true."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1757
+msgid "Grid/list default view"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1758
+msgid "Select the display mode of the products. Default: Grid view"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1767
+#: ../../cumico/lib/options.php:1872
+msgid "Sale flash"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1768
+#: ../../cumico/lib/options.php:1873
+msgid "Enable/Disable sale flash on products, defaults to true."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1773
+msgid "Products price"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1774
+msgid "Enable/Disable products price, defaults to true."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1779
+#: ../../cumico/lib/options.php:1896
+msgid "Add to cart"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1780
+#: ../../cumico/lib/options.php:1897
+msgid "Enable/Disable add to cart button, defaults to true."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1787
+msgid "Shop options"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1790
+msgid "Shop layout"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1791
+msgid "Select the Shop page layout: with or without sidebar"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1800
+msgid "Shop sidebar"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1801
+msgid "Select a sidebar to display on the Shop page. Default: \"Pages widget area\". To create custom sidebars please go to \"Sidebars\" tab."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1808
+#: ../../cumico/lib/options.php:1843
+msgid "Grid/list view"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1809
+#: ../../cumico/lib/options.php:1844
+msgid "Enable/Disable grid/list view, defaults to true."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1814
+#: ../../cumico/lib/options.php:1849
+msgid "Grid view short description"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1815
+#: ../../cumico/lib/options.php:1850
+msgid "Enable/Disable grid view short description, defaults to false."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1822
+msgid "Catalog options"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1825
+msgid "Catalog layout"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1826
+msgid "Select the Catalog page layout: with or without sidebar"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1835
+msgid "Catalog sidebar"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1836
+msgid "Select a sidebar to display on the Catalog page. Default: \"Pages widget area\". To create custom sidebars please go to \"Sidebars\" tab."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1855
+msgid "Category image"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1856
+#: ../../cumico/lib/options.php:1862
+msgid "Enable/Disable category image in product category, defaults to true."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1861
+msgid "Category description"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1869
+msgid "Product options"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1878
+msgid "Product price"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1879
+msgid "Enable/Disable product price, defaults to true."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1884
+msgid "Product excerpt"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1885
+msgid "Enable/Disable product excerpt(short description), defaults to true."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1890
+msgid "Product meta"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1891
+msgid "Enable/Disable product meta(sku, category, tag), defaults to true."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1902
+msgid "Related products"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1903
+msgid "Enable/Disable Related products. Defaults to true. <a target=\"_blank\" href=\"http://wcdocs.woothemes.com/user-guide/related-products-up-sells-and-cross-sells/\">How does this work?</a>"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1908
+msgid "Up sells products"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1909
+msgid "Enable/Disable Up Sells products. Defaults to true. <a target=\"_blank\" href=\"http://wcdocs.woothemes.com/user-guide/related-products-up-sells-and-cross-sells/\">How does this work?</a>"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1914
+msgid "Product Reviews tab"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1915
+msgid "Enable/Disable reviews tab. Defaults to true."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1920
+msgid "Product Description tab"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1921
+msgid "Enable/Disable description tab, defaults to true."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1926
+msgid "Product Attributes tab"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1927
+msgid "Enable/Disable attributes tab, defaults to true."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1935
+msgid "Cart options"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1938
+msgid "Cross Sells products"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1939
+msgid "Enable/Disable Cross Sells products. Defaults to true. <a target=\"_blank\" href=\"http://wcdocs.woothemes.com/user-guide/related-products-up-sells-and-cross-sells/\">How does this work?</a>"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1947
+msgid "Page templates"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1950
+msgid "Portfolio templates"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1953
+msgid "Related posts"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1954
+msgid "Enable/Disable related posts on portfolio pages, defaults to true."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1959
+msgid "Project details"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1960
+msgid "Enable/Disable project details box, defaults to true."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1967
+msgid "Blog template"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1970
+msgid "Blog inner image"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1971
+msgid "Enable/Disable blog inner page, defaults to true."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1979
+msgid "Social Media"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1982
+msgid "RSS Link (Widget)"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1983
+#: ../../cumico/lib/options.php:1989
+#: ../../cumico/lib/options.php:1995
+#: ../../cumico/lib/options.php:2001
+#: ../../cumico/lib/options.php:2008
+#: ../../cumico/lib/options.php:2014
+#: ../../cumico/lib/options.php:2020
+#: ../../cumico/lib/options.php:2027
+#: ../../cumico/lib/options.php:2033
+#: ../../cumico/lib/options.php:2040
+#: ../../cumico/lib/options.php:2046
+#: ../../cumico/lib/options.php:2052
+#: ../../cumico/lib/options.php:2058
+#: ../../cumico/lib/options.php:2064
+msgid "Social Icon will display/hide automatically in the social icon widget."
+msgstr ""
+
+#: ../../cumico/lib/options.php:1988
+msgid "Facebook Link (Widget)"
+msgstr ""
+
+#: ../../cumico/lib/options.php:1994
+msgid "Twitter Link (Widget)"
+msgstr ""
+
+#: ../../cumico/lib/options.php:2000
+msgid "Skype Link (Widget)"
+msgstr ""
+
+#: ../../cumico/lib/options.php:2007
+msgid "Vimeo Link (Widget)"
+msgstr ""
+
+#: ../../cumico/lib/options.php:2013
+msgid "LinkedIn Link (Widget)"
+msgstr ""
+
+#: ../../cumico/lib/options.php:2019
+msgid "Dribble Link (Widget)"
+msgstr ""
+
+#: ../../cumico/lib/options.php:2026
+msgid "Forrst Link (Widget)"
+msgstr ""
+
+#: ../../cumico/lib/options.php:2032
+msgid "Flickr Link (Widget)"
+msgstr ""
+
+#: ../../cumico/lib/options.php:2039
+msgid "Google Link (Widget)"
+msgstr ""
+
+#: ../../cumico/lib/options.php:2045
+msgid "Youtube Link (Widget)"
+msgstr ""
+
+#: ../../cumico/lib/options.php:2051
+msgid "Tumblr Link (Widget)"
+msgstr ""
+
+#: ../../cumico/lib/options.php:2057
+msgid "Behance Link (Widget)"
+msgstr ""
+
+#: ../../cumico/lib/options.php:2063
+msgid "Personal Website Link (Widget)"
+msgstr ""
+
+#: ../../cumico/lib/options.php:2070
+msgid "SEO"
+msgstr ""
+
+#: ../../cumico/lib/options.php:2073
+msgid "Meta Description"
+msgstr ""
+
+#: ../../cumico/lib/options.php:2074
+msgid "Enter a brief description for your site. This is what gets displayed on a Search Engine results page."
+msgstr ""
+
+#: ../../cumico/lib/options.php:2079
+msgid "Meta Keywords"
+msgstr ""
+
+#: ../../cumico/lib/options.php:2080
+msgid "Enter a comma separated list of keywords for your site (E.g.: keyword1, keyword2, keyword3)"
+msgstr ""
+
+#: ../../cumico/lib/options.php:2086
+msgid "Sidebars"
+msgstr ""
+
+#: ../../cumico/lib/options.php:2102
+msgid "Footer"
+msgstr ""
+
+#: ../../cumico/lib/options.php:2105
+msgid "Footer image"
+msgstr ""
+
+#: ../../cumico/lib/options.php:2106
+msgid "Upload or paste the URL here. <strong>This image will be inserted at the bottom of the site, centered.</strong>"
+msgstr ""
+
+#: ../../cumico/lib/options.php:2110
+msgid "Footer image link"
+msgstr ""
+
+#: ../../cumico/lib/options.php:2111
+msgid "Insert a link to wrap your image"
+msgstr ""
+
+#: ../../cumico/lib/options.php:2115
+msgid "Footer copyright title"
+msgstr ""
+
+#: ../../cumico/lib/options.php:2116
+msgid "Enter your copyright informations here"
+msgstr ""
+
+#: ../../cumico/lib/options.php:2118
+msgid "Copyright 2012 - All rights reserved"
+msgstr ""
+
+#: ../../cumico/lib/options.php:2121
+msgid "Footer Scripts"
+msgstr ""
+
+#: ../../cumico/lib/options.php:2122
+msgid "Add custom footer scripts such as Google Analytics. Do not include the &lt;script&gt; tag. This is already done for you."
+msgstr ""
+
+#: ../../cumico/lib/post-thumb-pos.php:218
+msgid "Could not read image size"
+msgstr ""
+
+#: ../../cumico/lib/post-thumb-pos.php:240
+msgid "Could not calculate resized image dimensions"
+msgstr ""
+
+#: ../../cumico/lib/post-thumb-pos.php:276
+#: ../../cumico/lib/post-thumb-pos.php:279
+#: ../../cumico/lib/post-thumb-pos.php:289
+msgid "Resize path invalid"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:37
+msgid "Portfolio Item"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:38
+#: ../../cumico/lib/post-types.php:298
+#: ../../cumico/lib/post-types.php:502
+#: ../../cumico/lib/post-types.php:636
+#: ../../cumico/lib/post-types.php:771
+#: ../../cumico/lib/post-types.php:905
+#: ../../cumico/lib/post-types.php:1040
+msgid "Add New Item"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:39
+#: ../../cumico/lib/post-types.php:41
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:40
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:42
+#: ../../cumico/lib/post-types.php:302
+#: ../../cumico/lib/post-types.php:506
+#: ../../cumico/lib/post-types.php:640
+#: ../../cumico/lib/post-types.php:775
+#: ../../cumico/lib/post-types.php:909
+#: ../../cumico/lib/post-types.php:1044
+msgid "View Item"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:43
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:44
+msgid "No portfolio items found"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:45
+msgid "No portfolio items found in trash"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:66
+#: ../../cumico/lib/post-types.php:80
+msgid "Portfolio Tags"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:67
+msgid "Portfolio Tag"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:68
+msgid "Search Portfolio Tags"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:69
+msgid "Popular Portfolio Tags"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:70
+msgid "All Portfolio Tags"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:71
+msgid "Parent Portfolio Tag"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:72
+msgid "Parent Portfolio Tag:"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:73
+msgid "Edit Portfolio Tag"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:74
+msgid "Update Portfolio Tag"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:75
+msgid "Add New Portfolio Tag"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:76
+msgid "New Portfolio Tag Name"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:77
+msgid "Separate portfolio tags with commas"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:78
+msgid "Add or remove portfolio tags"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:79
+msgid "Choose from the most used portfolio tags"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:102
+#: ../../cumico/lib/post-types.php:116
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:103
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:104
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:105
+msgid "Popular Portfolio Categories"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:106
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:107
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:108
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:109
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:110
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:111
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:112
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:113
+msgid "Separate portfolio categories with commas"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:114
+msgid "Add or remove portfolio categories"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:115
+msgid "Choose from the most used portfolio categories"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:143
+#: ../../cumico/lib/post-types.php:361
+#: ../../cumico/lib/post-types.php:534
+#: ../../cumico/lib/post-types.php:668
+#: ../../cumico/lib/post-types.php:803
+#: ../../cumico/lib/post-types.php:937
+msgid "Thumbnail"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:144
+#: ../../cumico/lib/post-types.php:362
+msgid "Category"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:145
+msgid "Tags"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:146
+#: ../../cumico/lib/post-types.php:535
+#: ../../cumico/lib/post-types.php:669
+#: ../../cumico/lib/post-types.php:804
+#: ../../cumico/lib/post-types.php:938
+#: ../../cumico/lib/post-types.php:1072
+msgid "Author"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:147
+msgid "Comments"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:148
+#: ../../cumico/lib/post-types.php:363
+#: ../../cumico/lib/post-types.php:536
+#: ../../cumico/lib/post-types.php:670
+#: ../../cumico/lib/post-types.php:805
+#: ../../cumico/lib/post-types.php:939
+#: ../../cumico/lib/post-types.php:1073
+msgid "Date"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:296
+msgid "Slideshow"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:297
+msgid "Slideshow Item"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:299
+#: ../../cumico/lib/post-types.php:301
+msgid "Add New Slideshow Item"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:300
+msgid "Edit Slideshow Item"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:303
+msgid "Search Slideshow"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:304
+msgid "No slideshow items found"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:305
+msgid "No slideshow items found in trash"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:326
+#: ../../cumico/lib/post-types.php:340
+msgid "Slideshow Categories"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:327
+msgid "Slideshow Category"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:328
+msgid "Search Slideshow Categories"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:329
+msgid "Popular Slideshow Categories"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:330
+msgid "All Slideshow Categories"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:331
+msgid "Parent Slideshow Category"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:332
+msgid "Parent Slideshow Category:"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:333
+msgid "Edit Slideshow Category"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:334
+msgid "Update Slideshow Category"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:335
+msgid "Add New Slideshow Category"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:336
+msgid "New Slideshow Category Name"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:337
+msgid "Separate Slideshow categories with commas"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:338
+msgid "Add or remove Slideshow categories"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:339
+msgid "Choose from the most used Slideshow categories"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:501
+msgid "Sponsors Item"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:503
+#: ../../cumico/lib/post-types.php:505
+msgid "Add New Sponsors Item"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:504
+msgid "Edit Sponsors Item"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:507
+msgid "Search Sponsors"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:508
+msgid "No sponsors items found"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:509
+msgid "No sponsors items found in trash"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:635
+msgid "Testimonials Item"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:637
+#: ../../cumico/lib/post-types.php:639
+msgid "Add New Testimonials Item"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:638
+msgid "Edit Testimonials Item"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:641
+msgid "Search Testimonials"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:642
+msgid "No testimonials items found"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:643
+msgid "No testimonials items found in trash"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:770
+msgid "Team Item"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:772
+#: ../../cumico/lib/post-types.php:774
+msgid "Add New Team Item"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:773
+msgid "Edit Team Item"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:776
+msgid "Search Team"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:777
+msgid "No team items found"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:778
+msgid "No team items found in trash"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:904
+msgid "Ads Item"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:906
+#: ../../cumico/lib/post-types.php:908
+msgid "Add New Ads Item"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:907
+msgid "Edit Ads Item"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:910
+msgid "Search Ads"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:911
+msgid "No Ads items found"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:912
+msgid "No Ads items found in trash"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:1038
+msgid "Faq"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:1039
+msgid "Faq Item"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:1041
+#: ../../cumico/lib/post-types.php:1043
+msgid "Add New Faq Item"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:1042
+msgid "Edit Faq Item"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:1045
+msgid "Search Faq"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:1046
+msgid "No Faq items found"
+msgstr ""
+
+#: ../../cumico/lib/post-types.php:1047
+msgid "No Faq items found in trash"
+msgstr ""
+
+#: ../../cumico/lib/sidebars.php:11
+msgid "Posts Widget Area"
+msgstr ""
+
+#: ../../cumico/lib/sidebars.php:13
+msgid "Shown only in Blog Posts, Archives, Categories, etc."
+msgstr ""
+
+#: ../../cumico/lib/sidebars.php:23
+msgid "Pages Widget Area"
+msgstr ""
+
+#: ../../cumico/lib/sidebars.php:25
+msgid "Shown only in Pages"
+msgstr ""
+
+#: ../../cumico/lib/sidebars.php:34
+msgid "Portfolio Widget Area"
+msgstr ""
+
+#: ../../cumico/lib/sidebars.php:36
+msgid "Shown only in Portfolio with sidebar pages"
+msgstr ""
+
+#: ../../cumico/lib/sidebars.php:45
+msgid "Contact Widget Area"
+msgstr ""
+
+#: ../../cumico/lib/sidebars.php:47
+msgid "Shown only in Contact page"
+msgstr ""
+
+#: ../../cumico/lib/sidebars.php:56
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: ../../cumico/lib/sidebars.php:58
+msgid "The first footer widget area"
+msgstr ""
+
+#: ../../cumico/lib/sidebars.php:67
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: ../../cumico/lib/sidebars.php:69
+msgid "The second footer widget area"
+msgstr ""
+
+#: ../../cumico/lib/sidebars.php:78
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: ../../cumico/lib/sidebars.php:80
+msgid "The third footer widget area"
+msgstr ""
+
+#: ../../cumico/lib/sidebars.php:89
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: ../../cumico/lib/sidebars.php:91
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: ../../cumico/lib/theme-woocommerce.php:69
+#: ../../cumico/lib/theme-woocommerce.php:370
+msgid "View your shopping cart"
+msgstr ""
+
+#: ../../cumico/lib/theme-woocommerce.php:80
+#: ../../cumico/lib/theme-woocommerce.php:381
+msgid "Your Cart Contents"
+msgstr ""
+
+#: ../../cumico/lib/theme-woocommerce.php:99
+#: ../../cumico/lib/theme-woocommerce.php:400
+msgid "No products in the cart."
+msgstr ""
+
+#: ../../cumico/lib/theme-woocommerce.php:104
+#: ../../cumico/lib/theme-woocommerce.php:405
+msgid "Total"
+msgstr ""
+
+#: ../../cumico/lib/theme-woocommerce.php:106
+#: ../../cumico/lib/theme-woocommerce.php:407
+msgid "Subtotal"
+msgstr ""
+
+#: ../../cumico/lib/theme-woocommerce.php:111
+#: ../../cumico/lib/theme-woocommerce.php:411
+msgid "View Cart &rarr;"
+msgstr ""
+
+#: ../../cumico/lib/theme-woocommerce.php:111
+#: ../../cumico/lib/theme-woocommerce.php:411
+msgid "Checkout &rarr;"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:35
+msgid "Display your latest tweets."
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:214
+msgid "Latest tweets"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:471
+msgid "Posts from blog with thumbnail"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:472
+#: ../../cumico/lib/widgets.php:492
+msgid "Posts from blog"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:563
+#: ../../cumico/lib/widgets.php:690
+#: ../../cumico/lib/widgets.php:841
+#: ../../cumico/lib/widgets.php:967
+#: ../../cumico/lib/widgets.php:1092
+#: ../../cumico/lib/widgets.php:1248
+#: ../../cumico/lib/widgets.php:1485
+msgid "Title:"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:566
+#: ../../cumico/lib/widgets.php:693
+#: ../../cumico/lib/widgets.php:844
+#: ../../cumico/lib/widgets.php:970
+#: ../../cumico/lib/widgets.php:1095
+#: ../../cumico/lib/widgets.php:1251
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:568
+#: ../../cumico/lib/widgets.php:695
+#: ../../cumico/lib/widgets.php:846
+#: ../../cumico/lib/widgets.php:972
+#: ../../cumico/lib/widgets.php:1097
+#: ../../cumico/lib/widgets.php:1253
+msgid "(at most 15)"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:572
+#: ../../cumico/lib/widgets.php:699
+#: ../../cumico/lib/widgets.php:850
+#: ../../cumico/lib/widgets.php:976
+#: ../../cumico/lib/widgets.php:1101
+#: ../../cumico/lib/widgets.php:1257
+msgid "(Enable/Disable carousel mode)"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:588
+msgid "Ads post type posts"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:589
+msgid "Post type: ADS"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:715
+msgid "Team post type posts"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:716
+msgid "Post type: Team"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:866
+msgid "Testimonials post type posts"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:867
+msgid "Post type: Testimonials"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:887
+msgid "testimonials"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:992
+msgid "Sponsors post type posts"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:993
+msgid "Post type: Sponsors"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:1013
+msgid "sponsors"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:1117
+msgid "portfolio post type posts"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:1118
+msgid "Post type: portfolio"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:1138
+msgid "portfolio"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:1412
+msgid "Contact us Widget"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:1418
+msgid "Contact Widget"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:1443
+#: ../../cumico/lib/widgets.php:1445
+#: ../../cumico/lib/widgets.php:1447
+#: ../../cumico/lib/widgets.php:1449
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:1480
+msgid "Contact Us"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:1480
+msgid "New York, NY, Usa"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:1480
+msgid "(40) - 555 555 5555 "
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:1480
+msgid "(40) - 555 555 5556"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:1480
+msgid "email@email.com"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:1490
+msgid "Your Address:"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:1495
+msgid "Your Phone:"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:1500
+msgid "Your Fax:"
+msgstr ""
+
+#: ../../cumico/lib/widgets.php:1505
+msgid "Your Email:"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/shortcodes-ultimate.php:144
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:9
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:42
+msgid "Shortcodes Ultimate"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/shortcodes-ultimate.php:144
+msgid "Vladimir Anokhin"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/shortcodes-ultimate.php:144
+msgid "Provides support for many easy to use shortcodes"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/shortcodes-ultimate.php:205
+#: ../../cumico/lib/shortcodes-ultimate/shortcodes-ultimate.php:266
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:50
+msgid "Settings"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/shortcodes-ultimate.php:206
+msgid "Docs"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/shortcodes-ultimate.php:219
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:59
+msgid "Settings saved"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/shortcodes-ultimate.php:224
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:112
+msgid "Custom CSS saved"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/shortcodes-ultimate.php:232
+msgid "Insert shortcode"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/shortcodes-ultimate.php:246
+msgid "Select shortcode"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/shortcodes-ultimate.php:246
+msgid "Shortcode not found"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:10
+msgid "Must have WordPress plugin - Shortcodes Ultimate"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:23
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:52
+msgid "Shortcodes"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:51
+msgid "Custom CSS"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:53
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:166
+#: ../../cumico/lib/shortcodes-ultimate/lib/generator.php:63
+msgid "Demo"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:58
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:111
+msgid "Saving..."
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:63
+msgid "Compatibility mode"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:66
+msgid "Enable this option if you have some problems with other plugins that uses similar shortcode names"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:70
+msgid "Disable scripts"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:74
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:75
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:76
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:77
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:78
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:89
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:90
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:91
+msgid "Disable"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:81
+msgid "Check scripts, that you want to exclude form wp_head section"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:81
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:94
+msgid "Be careful with this settings!"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:85
+msgid "Disable styles"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:94
+msgid "Check stylesheets, that you want to exclude form wp_head section"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:100
+msgid "Save settings"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:113
+msgid "You can add custom styles, that will override defaults"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:114
+msgid "See original styles"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:117
+msgid "Save styles"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:127
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:165
+msgid "Shortcode"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:128
+msgid "Parameters"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/admin.php:129
+msgid "Usage"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:10
+msgid "Basic shortcodes"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:21
+msgid "Insert your email here"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:25
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:26
+msgid "Contact form"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:36
+msgid "Headline title"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:40
+msgid "#"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:41
+msgid "Headline link"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:45
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:50
+msgid "yes"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:46
+msgid "Display bottom border"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:51
+msgid "Display top border"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:55
+msgid "Headline"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:56
+msgid "Styled headline"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:72
+msgid "Heading style"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:76
+msgid "Heading"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:77
+msgid "Styled heading"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:91
+msgid "Frame align"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:95
+msgid "Image tag"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:96
+msgid "Styled image frame"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:110
+msgid "Tabs style"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:114
+msgid "Tabs container"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:124
+msgid "Tab title"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:128
+msgid "Tab content"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:129
+msgid "Single tab"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:138
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:139
+#: ../../cumico/lib/shortcodes-ultimate/lib/shortcodes.php:241
+msgid "Spoiler title"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:147
+msgid "Is spoiler open?"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:155
+msgid "Spoiler style"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:159
+msgid "Hidden content"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:160
+msgid "Hidden text"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:169
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:170
+msgid "Skill title"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:174
+msgid "Procent goes here"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:175
+msgid "Display a procentual graph"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:184
+msgid "Wrapps the procentual graph shortcode"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:193
+msgid "Accordion"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:206
+msgid "Show TOP link"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:210
+msgid "Content divider with optional TOP link"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:218
+msgid "Twitter and Facebook share box"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:234
+msgid "Spacer height in pixels"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:238
+msgid "Empty space with adjustable height"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:252
+msgid "Quote style"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:256
+msgid "Quote"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:257
+msgid "Blockquote alternative"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:270
+msgid "Pullquote alignment"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:274
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:275
+msgid "Pullquote"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:285
+msgid "Background color"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:291
+msgid "Text color"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:296
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:297
+msgid "Highlighted text"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:313
+msgid "Label style"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:317
+msgid "Label"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:318
+msgid "Styled label"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:332
+msgid "Dropcap style"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:343
+msgid "Dropcap size"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:347
+msgid "D"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:348
+msgid "Dropcap"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:371
+msgid "Option name"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:375
+msgid "Blog info"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:385
+msgid "Post/page ID"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:393
+msgid "Link target"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:397
+msgid "Permalink text"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:398
+msgid "Permalink to specified post/page"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:408
+msgid "Button link"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:413
+msgid "Button background color"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:432
+msgid "Button size"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:443
+msgid "Button background style"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:451
+msgid "Dark text color"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:462
+msgid "Corners radius"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:467
+msgid "Button icon"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:472
+msgid "Button class"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:480
+msgid "Button link target"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:484
+msgid "Button text"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:485
+msgid "Styled button"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:495
+msgid "URL"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:499
+msgid "Link text"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:500
+msgid "Fancy link"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:509
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:510
+msgid "Service title"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:515
+msgid "Service icon"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:524
+msgid "Icon size"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:528
+msgid "Service description"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:529
+msgid "Service box with title"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:543
+msgid "Box style"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:551
+msgid "Show login message"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:555
+msgid "Content for logged members"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:556
+msgid "Content for logged in members only"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:564
+msgid "Content for guests"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:565
+msgid "Content for guests only"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:574
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:575
+msgid "Box title"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:580
+msgid "Box color"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:585
+msgid "Box content"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:586
+msgid "Colored box with caption"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:596
+msgid "Note color"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:601
+msgid "Note text"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:602
+msgid "Colored box"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:610
+msgid "Private note text"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:611
+msgid "Private note for post authors"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:637
+msgid "List style"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:641
+msgid "List item "
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:642
+msgid "Styled unordered list"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:652
+msgid "Feed URL"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:663
+msgid "Number of item to show"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:667
+msgid "Feed grabber"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:677
+msgid "Custom menu name"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:681
+msgid "Custom menu by name"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:695
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:718
+msgid "Depth level"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:700
+msgid "Parent page ID"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:704
+msgid "Page childrens"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:722
+msgid "Page siblings"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:744
+msgid "Column width"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:752
+msgid "Last column"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:761
+msgid "Column style"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:765
+msgid "Column content"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:766
+msgid "Flexible columns"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:780
+msgid "Table style"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:785
+msgid "Create table from CSV"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:790
+msgid "Styled table from HTML or CSV file"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:866
+msgid "Media URL"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:871
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:904
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:923
+msgid "Width"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:876
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:909
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:928
+msgid "Height"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:885
+msgid "jwPlayer url-encoded params"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:889
+msgid "YouTube video, Vimeo video, .mp4/.flv video, .mp3 file"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:899
+msgid "Document URL"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:913
+msgid ".doc, .xls, .pdf viewer by Google"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:933
+msgid "Marker address"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:937
+msgid "Maps by Google"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:951
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1012
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1091
+msgid "Source of images"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:962
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1023
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1102
+msgid "Images links"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:976
+msgid "Slider size"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:986
+msgid "Number of slides"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:994
+msgid "Animation effect"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:998
+msgid "Flexslider attached to post images"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1033
+msgid "Carousel item size"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1043
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1130
+msgid "Number of items"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1052
+msgid "Number of items in viewport"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1057
+msgid "Animation speed (1000 = 1 second)"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1066
+msgid "Space between items in pixels"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1070
+msgid "flexcarousel by attached to post images"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1082
+msgid "Gallery style"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1110
+msgid "Show image description"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1120
+msgid "Gallery item size"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1134
+msgid "Custom gallery by attached to post images"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1144
+msgid "Twitter username"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1155
+msgid "Number of tweets to show"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1163
+msgid "Tweets style"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1171
+msgid "Show relative time"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1175
+msgid "Recent tweets"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1185
+msgid "Most recent posts from your blog"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1195
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1224
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1253
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1282
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1330
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1626
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1674
+msgid "Insert the categories from where the post should appear, separated by commas(\",\")"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1200
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1229
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1258
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1287
+msgid "Limit de post description. Put \"0\" to disable."
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1204
+msgid "Recent posts"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1214
+msgid "Most popular posts from your blog"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1233
+msgid "Popular posts"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1243
+msgid "Most recent posts from your portfolio"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1262
+msgid "Portfolio Recent Posts"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1272
+msgid "Popular posts from your portfolio"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1291
+msgid "Portfolio Popular Posts"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1301
+msgid "Posts from your portfolio"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1317
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1392
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1454
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1516
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1578
+msgid "Sort retrieved posts by parameter"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1325
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1400
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1462
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1524
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1586
+msgid "Designate the ascending or descending order of posts"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1338
+msgid "Choose the number of columns to show. For sidebar page choose 3, for full width page choose 4."
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1346
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1408
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1470
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1532
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1594
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1642
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1690
+msgid "Select carousel mode"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1354
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1416
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1478
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1540
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1602
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1650
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1698
+msgid "Autoplay carousel?"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1358
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1654
+msgid "Portfolio Posts"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1368
+msgid "Posts from your sponsors"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1381
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1443
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1505
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1567
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1634
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1682
+msgid "Choose the number of columns to show. For sidebar page choose 3, else 4."
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1420
+msgid "Sponsors Posts"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1430
+msgid "Posts from your testimonials"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1482
+msgid "Testimonials Posts"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1492
+msgid "Posts from your team"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1544
+msgid "Team Posts"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1554
+msgid "Posts from your ads"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1606
+msgid "Ads Posts"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1616
+msgid "Best selling products"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1664
+msgid "Sale products"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/available.php:1702
+msgid "Sale products posts"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/generator.php:59
+msgid "Content"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/generator.php:62
+msgid "Insert"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/shortcodes.php:261
+msgid "Skills title"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/shortcodes.php:311
+msgid "Top"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/shortcodes.php:564
+msgid "Service name"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/shortcodes.php:582
+msgid "This is box title"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/shortcodes.php:650
+msgid "Please specify media url"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/shortcodes.php:767
+#: ../../cumico/lib/shortcodes-ultimate/lib/shortcodes.php:826
+#: ../../cumico/lib/shortcodes-ultimate/lib/shortcodes.php:875
+msgid "no attached images, or only one attached image"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/shortcodes.php:990
+msgid "This menu doesn't exists, or has no elements"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/shortcodes.php:1047
+msgid "This content is for members only."
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/shortcodes.php:1047
+msgid "Please login"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/twitter.php:16
+msgid "year"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/twitter.php:17
+msgid "month"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/twitter.php:18
+msgid "week"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/twitter.php:19
+msgid "day"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/twitter.php:20
+msgid "hour"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/twitter.php:21
+msgid "minute"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/twitter.php:35
+#: ../../cumico/lib/shortcodes-ultimate/lib/twitter.php:43
+msgid "s"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/twitter.php:77
+msgid "username not specified"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/twitter.php:80
+msgid "no public messages"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/widget.php:35
+msgid "Special Shortcodes widget"
+msgstr ""
+
+#: ../../cumico/lib/shortcodes-ultimate/lib/widget.php:41
+msgid "Shortcodes Widget"
+msgstr ""
+
